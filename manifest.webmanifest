@@ -1,7 +1,7 @@
 {
-  "name": "俄乌战争俄方参战部队互动百科地图",
-  "short_name": "ORBAT Map",
-  "description": "严格时间轴版俄乌战争俄方参战部队互动百科地图，支持离线查看。",
+  "name": "俄乌战争俄方参战部队互动百科地图 Pro",
+  "short_name": "ORBAT Pro",
+  "description": "iOS Pro split-view zoom version",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
